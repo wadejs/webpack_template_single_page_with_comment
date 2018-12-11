@@ -3,8 +3,8 @@
  * @Date: 2018-12-11 16:31:34
  * @GitHub: 'https://github.com/wadejs'
  * @Blog: 'http://blog.wadejs.cn'
- * @Last Modified by:   wadejs
- * @Last Modified time: 2018-12-11 16:31:34
+ * @Last Modified by: wadejs
+ * @Last Modified time: 2018-12-11 16:38:59
  */
 module.exports = {
   dev: {
@@ -19,7 +19,7 @@ module.exports = {
       port: 8888,
       inline: true,
       open: false, // 是否自动打开浏览器
-      quiet: true // necessary for FriendlyErrorsPlugin
+      quiet: true // necessary for FriendlyErrorsPlugintest
     }
   }
 }
